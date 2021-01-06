@@ -1,16 +1,12 @@
-# Starter Project
+# Virtual tree
 
 ## p5.js with Typescript
-
-Project to quickly get something working in [p5.js](https://p5js.org/) and [typescript](https://www.typescriptlang.org/)
 
 ## Demo
 
 ## **[Click here for Demo](https://gaweph.github.io/p5-typescript-starter/)**
 
 ![Demo](p5-typescript-demo.png?raw=true "Demo")
-
-This is based on the [Regular Polygon](https://p5js.org/examples/form-regular-polygon.html) sketch available in the p5js examples
 
 ## Getting Started
 
